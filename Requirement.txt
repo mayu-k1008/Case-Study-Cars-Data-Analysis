@@ -1,0 +1,2 @@
+Softwares: VS Code or Jupyter Notebook
+Required Libraries: Numpy, Matplotlib ,Pandas, Seaborn
